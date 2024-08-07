@@ -1,0 +1,41 @@
+@media screen and (max-width: 767px) {
+        header h1, .menu{
+            margin: 0 auto;
+        }
+
+        footer h3{
+            width: 80%;
+            margin: 0 auto;
+        }
+
+        .card{
+            border: none;
+        }
+
+
+    }
+    
+    @media  screen and (min-width: 768px) and (max-width: 1023px){
+        .container{
+            max-width: 90%;
+        }
+    
+        .botao-menu{
+            display: none;
+        }
+    
+        .destaque .noticias a{
+            font-size: 1.5em;
+        }
+    
+        .noticia{
+            grid-template-columns: repeat(2, 49%);
+        }
+    }
+    
+    @media screen and (min-width: 1024px) {
+        .botao-menu{
+            display: none;
+        }
+    }
+

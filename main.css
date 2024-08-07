@@ -1,0 +1,47 @@
+        header{
+            background-color: #F5C883;
+        }
+
+        header h1{
+            color: #0748c0;
+        }
+
+        #botao-1{
+            margin-right: 8px;
+        }
+
+        .chamada{
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .carrosel img{
+            height: 500px;
+            margin-top: px;
+        }
+
+        .card{
+            border: none;
+            margin-top: 100px;
+        }
+
+        .card-body{
+            text-align: center;
+        }
+
+        .card img{
+            display: block;
+            margin: 0 auto;
+            width: 200px;
+        }
+
+        footer{
+            background-color: #F5C883;
+            height: 150px;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        footer h3{
+            padding: 30px;
+        }
